@@ -1,3 +1,5 @@
+#written by Amit
+
 import curses
 from curses import wrapper 
 import time
